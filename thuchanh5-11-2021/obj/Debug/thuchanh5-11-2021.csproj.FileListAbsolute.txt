@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\bin\Debug\thuchanh5-11-2021.exe.config
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\bin\Debug\thuchanh5-11-2021.exe
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\bin\Debug\thuchanh5-11-2021.pdb
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5-11-2021.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5_11_2021.Form1.resources
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5_11_2021.Properties.Resources.resources
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5-11-2021.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5-11-2021.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5-11-2021.exe
+C:\Users\ASUS\source\repos\thuchanh5-11-2021\thuchanh5-11-2021\obj\Debug\thuchanh5-11-2021.pdb
